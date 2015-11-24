@@ -1,0 +1,8 @@
+# Intellij project files
+*.iws
+.idea/workspace.xml
+.idea/tasks.xml
+/*.iml
+
+out/
+build/
