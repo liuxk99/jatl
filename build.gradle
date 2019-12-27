@@ -5,7 +5,7 @@ dependencies {
     compile 'commons-lang:commons-lang:2.6'
 
     //{{ ADD THESE LINES:
-    testCompile 'junit:junit:4.12'
+    testImplementation 'junit:junit:4.12'
 }
 
 compileJava{
